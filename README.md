@@ -4,7 +4,7 @@ Hangman is a command-line game where players guess a hidden word. Users will be 
 
 The purpose of this software is to serve a recreational program that teaches the functionality of word processing and user/input interaction. Also works as a baseline to create a more complex hangman game.
 
-[Software Demo Video](#)
+[Software Demo Video](https://www.youtube.com/watch?v=lZicbYAb93w)
 
 ## Development Environment
 
