@@ -93,7 +93,7 @@ fn main() {
                 }
             }
         } else {
-            //
+            // If the guessed char is no valid, the user gets a prompt to guess again
             println!("That letter is already revealed. Guess again")
         }
 
